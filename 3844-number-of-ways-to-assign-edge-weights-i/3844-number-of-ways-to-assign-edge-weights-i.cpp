@@ -1,14 +1,32 @@
 class Solution {
 public:
     const int M = 1000000007;
-    long long  fact(int k)
-    {
-       long long  int g =1;
-        for(int i =1;i<=k;i++)
-            {
-                g = (g*i)%M;
-            }
-        return g;
+
+    vector<long long> factorial, invFactorial;
+
+    long long modpow(long long a, long long b) {
+        long long res = 1;
+        while (b > 0) {
+            if (b & 1) res = (res * a) % M;
+            a = (a * a) % M;
+            b >>= 1;
+        }
+        return res;
+    }
+
+    void precomputeFactorials(int n) {
+        factorial.resize(n + 1);
+        invFactorial.resize(n + 1);
+        factorial[0] = 1;
+        for (int i = 1; i <= n; ++i)
+            factorial[i] = (factorial[i - 1] * i) % M;
+        for (int i = 0; i <= n; ++i)
+            invFactorial[i] = modpow(factorial[i], M - 2);
+    }
+
+    long long C(int n, int r) {
+        if (r < 0 || r > n) return 0;
+        return factorial[n] * invFactorial[r] % M * invFactorial[n - r] % M;
     }
     int assignEdgeWeights(vector<vector<int>>& edges) {
         int n = edges.size()+1;
@@ -39,15 +57,14 @@ public:
                     }
             }
         cout<<ans<<endl;
-        //int b = ans*2;
-        //int a =ans;
-         long  long int e =0;
-        for(int i =1;i<=ans;i+=2)
-            {
-                long  long  s = (fact(ans)/fact(i))%M;
-                s = (s/fact(ans-i))%M;
-                e = (e+s)%M;
-            }
-        return (int )e%M;
+    precomputeFactorials(ans);
+
+        // Sum of combinations C(maxDepth, i) for all odd i
+        long long c = 0;
+        for (int i = 1; i <= ans; i += 2) {
+            c = (c + C(ans, i)) % M;
+        }
+
+        return (int)c;
     }
 };
