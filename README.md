@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0386-lexicographical-numbers) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Hash Table
 |  |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
