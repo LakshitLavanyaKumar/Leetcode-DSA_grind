@@ -41,4 +41,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Array
+|  |
+| ------- |
+| [1171-shortest-path-in-binary-matrix](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1171-shortest-path-in-binary-matrix) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1171-shortest-path-in-binary-matrix](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1171-shortest-path-in-binary-matrix) |
+## Matrix
+|  |
+| ------- |
+| [1171-shortest-path-in-binary-matrix](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1171-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
