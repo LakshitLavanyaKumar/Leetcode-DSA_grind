@@ -22,7 +22,7 @@ priority_queue<pair<long long, int>, vector<pair<long long, int>>, greater<pair<
            
             for(auto it:adj[node])
             {
-                 if (dis > dist[node]) continue;
+                
                 if((long long )dis+(long long )it.second<dist[it.first])
                 {
                     dist[it.first] = (long long )dis+(long long )it.second;
