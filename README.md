@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0386-lexicographical-numbers) |
+| [0721-accounts-merge](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1300-critical-connections-in-a-network](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1300-critical-connections-in-a-network) |
@@ -24,11 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0721-accounts-merge) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0721-accounts-merge) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -55,11 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0721-accounts-merge) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -81,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0721-accounts-merge) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1753-path-with-minimum-effort) |
 ## Dynamic Programming
@@ -125,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+## Sorting
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0721-accounts-merge) |
 <!---LeetCode Topics End-->
