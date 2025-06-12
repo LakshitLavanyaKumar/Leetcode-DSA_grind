@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0721-accounts-merge) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1753-path-with-minimum-effort) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Breadth-First Search
 |  |
 | ------- |
