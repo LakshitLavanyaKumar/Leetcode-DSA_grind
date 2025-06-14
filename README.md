@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Tree
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Heap (Priority Queue)
 |  |
