@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0890-lemonade-change) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0055-jump-game) |
 | [0721-accounts-merge](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0721-accounts-merge) |
 | [0890-lemonade-change](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0890-lemonade-change) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0678-valid-parenthesis-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0803-cheapest-flights-within-k-stops) |
