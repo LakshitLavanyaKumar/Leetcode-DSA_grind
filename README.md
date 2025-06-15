@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0890-lemonade-change) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0057-insert-interval) |
+| [0435-non-overlapping-intervals](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0435-non-overlapping-intervals) |
 | [0721-accounts-merge](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0721-accounts-merge) |
 | [0890-lemonade-change](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0890-lemonade-change) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0678-valid-parenthesis-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -150,5 +153,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0435-non-overlapping-intervals) |
 | [0721-accounts-merge](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0721-accounts-merge) |
 <!---LeetCode Topics End-->
