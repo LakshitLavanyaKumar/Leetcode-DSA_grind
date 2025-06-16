@@ -3,16 +3,17 @@ public:
     int maximumDifference(vector<int>& nums) {
         int n = nums.size();
         int ans = -1;
-        for(int i =0;i<n;i++)
-        {
-            for(int j =i+1;j<n;j++)
-            {
-                if(nums[i]<nums[j])
-                {
-  ans = max(ans , nums[j] - nums[i]);
-                }
-            }
-        }
-        return ans;
+  int x = nums[0];
+  for(int i =1;i<n;i++)
+  {
+    if(nums[i]>x)
+    {
+        ans =max(ans , nums[i] - x);
+    }
+    else{
+        x = nums[i];
+    }
+  }
+          return ans;
     }
 };
