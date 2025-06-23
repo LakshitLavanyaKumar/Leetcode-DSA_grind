@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
+| [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1753-path-with-minimum-effort) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
+| [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3903-inverse-coin-change](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3903-inverse-coin-change) |
+| [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3903-inverse-coin-change](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3903-inverse-coin-change) |
+| [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Graph
 |  |
 | ------- |
