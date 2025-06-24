@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0055-jump-game) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0162-find-peak-element) |
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3868-find-maximum-area-of-a-triangle) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
