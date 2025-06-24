@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
+| [3868-find-maximum-area-of-a-triangle](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3868-find-maximum-area-of-a-triangle) |
 ## Tree
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0721-accounts-merge) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3868-find-maximum-area-of-a-triangle](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3868-find-maximum-area-of-a-triangle) |
 ## String
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3868-find-maximum-area-of-a-triangle](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3868-find-maximum-area-of-a-triangle) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3868-find-maximum-area-of-a-triangle](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3868-find-maximum-area-of-a-triangle) |
 | [3903-inverse-coin-change](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3903-inverse-coin-change) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Breadth-First Search
@@ -173,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3868-find-maximum-area-of-a-triangle](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3868-find-maximum-area-of-a-triangle) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -192,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0917-boats-to-save-people](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0917-boats-to-save-people) |
+## Geometry
+|  |
+| ------- |
+| [3868-find-maximum-area-of-a-triangle](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3868-find-maximum-area-of-a-triangle) |
 <!---LeetCode Topics End-->
