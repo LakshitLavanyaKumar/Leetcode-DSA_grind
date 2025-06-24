@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0057-insert-interval) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0162-find-peak-element) |
 | [0435-non-overlapping-intervals](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0435-non-overlapping-intervals) |
 | [0721-accounts-merge](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0721-accounts-merge) |
 | [0890-lemonade-change](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0890-lemonade-change) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0162-find-peak-element) |
 | [1753-path-with-minimum-effort](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1753-path-with-minimum-effort) |
 ## Union Find
 |  |
