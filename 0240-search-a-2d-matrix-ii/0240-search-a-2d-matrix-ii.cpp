@@ -2,15 +2,18 @@ class Solution {
 public:
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
         bool p  =false;
-        for(int i =0;i<matrix.size();i++)
+    int row = 0;
+    int col = matrix[0].size() - 1;
+    while(row<matrix.size() && col>=0)
+    {
+        if(matrix[row][col] == target)
+        {return true;}
+        if(matrix[row][col] <target )
         {
-          //  vector<int> v(matrix[i].begin() , matrix[i].end());
-            int j = lower_bound(matrix[i].begin() , matrix[i].end() , target) - matrix[i].begin();
-            if(j== matrix[i].size())
-            {continue;}
-            if(matrix[i][j] == target)
-            { p = true;break;}
+            row++;
         }
-        return p;
+        else if(matrix[row][col] > target){col--;}
+    }
+    return false;
     }
 };
