@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0069-sqrtx) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3868-find-maximum-area-of-a-triangle) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0162-find-peak-element) |
