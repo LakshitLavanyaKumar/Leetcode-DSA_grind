@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0069-sqrtx) |
+| [0910-nth-magical-number](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0910-nth-magical-number) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3868-find-maximum-area-of-a-triangle) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0907-koko-eating-bananas) |
+| [0910-nth-magical-number](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0910-nth-magical-number) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1646-kth-missing-positive-number) |
