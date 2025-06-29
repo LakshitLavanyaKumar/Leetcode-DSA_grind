@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0069-sqrtx) |
+| [0372-super-pow](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0372-super-pow) |
 | [0910-nth-magical-number](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0910-nth-magical-number) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
@@ -226,4 +227,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0240-search-a-2d-matrix-ii) |
+| [0372-super-pow](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
