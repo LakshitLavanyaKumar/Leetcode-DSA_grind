@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0525-contiguous-array) |
 | [0721-accounts-merge](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0721-accounts-merge) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0435-non-overlapping-intervals) |
+| [0525-contiguous-array](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0525-contiguous-array) |
 | [0721-accounts-merge](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0721-accounts-merge) |
 | [0890-lemonade-change](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0907-koko-eating-bananas) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0410-split-array-largest-sum) |
+| [0525-contiguous-array](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0525-contiguous-array) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Sorting
 |  |
