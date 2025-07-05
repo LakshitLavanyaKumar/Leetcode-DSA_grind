@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3868-find-maximum-area-of-a-triangle](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3868-find-maximum-area-of-a-triangle) |
 | [3903-inverse-coin-change](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3903-inverse-coin-change) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
+| [3913-partition-array-to-minimize-xor](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3913-partition-array-to-minimize-xor) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3903-inverse-coin-change](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3903-inverse-coin-change) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
+| [3913-partition-array-to-minimize-xor](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3913-partition-array-to-minimize-xor) |
 ## Graph
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1370-count-number-of-nice-subarrays) |
 | [1983-maximum-population-year](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1983-maximum-population-year) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3913-partition-array-to-minimize-xor](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3913-partition-array-to-minimize-xor) |
 ## Sorting
 |  |
 | ------- |
@@ -243,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0240-search-a-2d-matrix-ii) |
 | [0372-super-pow](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0372-super-pow) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3913-partition-array-to-minimize-xor](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3913-partition-array-to-minimize-xor) |
 <!---LeetCode Topics End-->
