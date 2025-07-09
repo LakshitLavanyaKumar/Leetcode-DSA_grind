@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0069-sqrtx) |
 | [0372-super-pow](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0372-super-pow) |
 | [0910-nth-magical-number](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0910-nth-magical-number) |
@@ -249,5 +250,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0029-divide-two-integers) |
 | [3913-partition-array-to-minimize-xor](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3913-partition-array-to-minimize-xor) |
 <!---LeetCode Topics End-->
