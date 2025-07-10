@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0097-interleaving-string) |
+| [0131-palindrome-partitioning](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0131-palindrome-partitioning) |
 | [0678-valid-parenthesis-string](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0721-accounts-merge) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0055-jump-game) |
 | [0091-decode-ways](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0097-interleaving-string) |
+| [0131-palindrome-partitioning](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0678-valid-parenthesis-string) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0131-palindrome-partitioning) |
 ## Two Pointers
 |  |
 | ------- |
