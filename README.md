@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0097-interleaving-string) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0055-jump-game) |
@@ -255,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0029-divide-two-integers) |
 | [3913-partition-array-to-minimize-xor](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3913-partition-array-to-minimize-xor) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
