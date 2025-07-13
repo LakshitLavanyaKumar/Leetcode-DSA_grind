@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0045-jump-game-ii) |
+| [0051-n-queens](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0074-search-a-2d-matrix) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0131-palindrome-partitioning) |
 ## Two Pointers
 |  |
