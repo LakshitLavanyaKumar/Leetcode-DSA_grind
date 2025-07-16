@@ -5,22 +5,23 @@ class Solution {
     void dfs(int node  , int parent , vector<int> &vis, vector<vector<int>> &adj,
     int tin[] ,int low[] ,vector<vector<int>> &bridges)
     {
-        vis[node] =1;
-        tin[node] = low[node] =timer;
-        timer++;
-        for(auto it:adj[node])
+       vis[node] =1;
+       tin[node] = low[node] = timer;timer++;
+       for(auto child:adj[node])
+       {
+        if(child==parent)
+        {continue;}
+        if(vis[child]==0)
         {
-            if(it == parent){continue;}
-            if(vis[it]==0)
-            {
-                dfs(it,node,vis,adj,tin,low,bridges);
-                low[node] = min(low[node] ,low[it]);
-                if(low[it] > tin[node]){bridges.push_back({it ,node});}
-            }
-            else{
-                 low[node] = min(low[node] ,low[it]);
-            }
+            dfs(child,node,vis,adj,tin,low,bridges);
+            low[node] = min(low[child],low[node]);
+            if(tin[node]<low[child])
+            {bridges.push_back({node,child});}
         }
+        else{
+           low[node] = min(low[node] , low[child]);
+        }
+       }
     }
 public:
     vector<vector<int>> criticalConnections(int n, vector<vector<int>>& connections) {
