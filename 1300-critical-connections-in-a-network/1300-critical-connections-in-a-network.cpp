@@ -1,7 +1,7 @@
 class Solution {
-    private:
+   // private:
     int timer = 1;
-    private:
+  
     void dfs(int node  , int parent , vector<int> &vis, vector<vector<int>> &adj,
     int tin[] ,int low[] ,vector<vector<int>> &bridges)
     {
