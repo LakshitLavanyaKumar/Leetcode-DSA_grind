@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3822-fill-a-special-grid](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3822-fill-a-special-grid) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3868-find-maximum-area-of-a-triangle) |
 | [3903-inverse-coin-change](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3903-inverse-coin-change) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1753-path-with-minimum-effort) |
 | [2047-find-a-peak-element-ii](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/2047-find-a-peak-element-ii) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3822-fill-a-special-grid](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3822-fill-a-special-grid) |
 ## Counting
 |  |
 | ------- |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0240-search-a-2d-matrix-ii) |
 | [0372-super-pow](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0372-super-pow) |
+| [3822-fill-a-special-grid](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3822-fill-a-special-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
