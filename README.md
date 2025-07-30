@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0097-interleaving-string) |
 | [0131-palindrome-partitioning](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0131-palindrome-partitioning) |
+| [0151-reverse-words-in-a-string](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0151-reverse-words-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0721-accounts-merge) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0151-reverse-words-in-a-string) |
 | [0917-boats-to-save-people](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0917-boats-to-save-people) |
 ## Geometry
 |  |
