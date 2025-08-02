@@ -3,7 +3,7 @@ public:
     int beautySum(string s) {
         int n = s.length();
         int c = 0;
-        
+
         for (int i = 0; i < n; i++) {
             vector<int> freq(26, 0);
 
@@ -17,9 +17,11 @@ public:
                         mi = min(mi, freq[k]);
                     }
                 }
+
                 c += (ma - mi);
             }
         }
+
         return c;
     }
 };
