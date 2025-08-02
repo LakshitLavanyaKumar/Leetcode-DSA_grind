@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0525-contiguous-array) |
 | [0721-accounts-merge](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0721-accounts-merge) |
 | [1370-count-number-of-nice-subarrays](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1370-count-number-of-nice-subarrays) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3868-find-maximum-area-of-a-triangle) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0205-isomorphic-strings) |
 | [0678-valid-parenthesis-string](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0721-accounts-merge) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/2032-largest-odd-number-in-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1983-maximum-population-year](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1983-maximum-population-year) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Binary Search
