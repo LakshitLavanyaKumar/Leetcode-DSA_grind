@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0037-sudoku-solver) |
+| [0128-longest-consecutive-sequence](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0205-isomorphic-strings) |
 | [0525-contiguous-array](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0525-contiguous-array) |
 | [0721-accounts-merge](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0721-accounts-merge) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0240-search-a-2d-matrix-ii) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0128-longest-consecutive-sequence) |
 | [0721-accounts-merge](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0721-accounts-merge) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1753-path-with-minimum-effort) |
