@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0074-search-a-2d-matrix) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0055-jump-game) |
 | [0091-decode-ways](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0097-interleaving-string) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0240-search-a-2d-matrix-ii) |
 | [0372-super-pow](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0372-super-pow) |
 | [3822-fill-a-special-grid](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3822-fill-a-special-grid) |
