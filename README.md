@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0678-valid-parenthesis-string) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0053-maximum-subarray) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0055-jump-game) |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0151-reverse-words-in-a-string) |
 | [0917-boats-to-save-people](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0917-boats-to-save-people) |
 ## Geometry
@@ -306,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
