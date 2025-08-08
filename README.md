@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1753-path-with-minimum-effort) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Trie
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1983-maximum-population-year](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1983-maximum-population-year) |
 | [2047-find-a-peak-element-ii](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/2047-find-a-peak-element-ii) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1753-path-with-minimum-effort) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Matrix
 |  |
 | ------- |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1753-path-with-minimum-effort) |
 | [2047-find-a-peak-element-ii](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/2047-find-a-peak-element-ii) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3822-fill-a-special-grid](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3822-fill-a-special-grid) |
 ## Counting
@@ -231,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Shortest Path
 |  |
 | ------- |
@@ -238,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Topological Sort
 |  |
 | ------- |
