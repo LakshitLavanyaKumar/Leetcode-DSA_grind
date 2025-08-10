@@ -7,7 +7,7 @@ public:
         stack<int> st1,st2;
         for(int i =0;i<n;i++)
         {
-            while(!st1.empty() && arr[st1.top()]>=arr[i])
+            while(!st1.empty() && arr[st1.top()]>arr[i])
             {
                 nse[st1.top()] = i;
                 st1.pop();
@@ -28,7 +28,7 @@ public:
 
          for(int i =n-1;i>=0;i--)
         {
-            while(!st2.empty() && arr[st2.top()]>arr[i])
+            while(!st2.empty() && arr[st2.top()]>=arr[i])
             {
                 pse[st2.top()] = i;
                 st2.pop();
