@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/2227-sum-of-subarray-ranges) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Greedy
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1983-maximum-population-year](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1983-maximum-population-year) |
 | [2047-find-a-peak-element-ii](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/2047-find-a-peak-element-ii) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2227-sum-of-subarray-ranges](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/2227-sum-of-subarray-ranges) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/2227-sum-of-subarray-ranges) |
 ## Simulation
 |  |
 | ------- |
