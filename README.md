@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0503-next-greater-element-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0240-search-a-2d-matrix-ii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1753-path-with-minimum-effort) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0055-jump-game) |
+| [0085-maximal-rectangle](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0118-pascals-triangle) |
@@ -327,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0503-next-greater-element-ii) |
