@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0205-isomorphic-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0525-contiguous-array) |
 | [0721-accounts-merge](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0721-accounts-merge) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0205-isomorphic-strings) |
 | [0402-remove-k-digits](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0721-accounts-merge) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0940-fruit-into-baskets) |
 | [1370-count-number-of-nice-subarrays](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1370-count-number-of-nice-subarrays) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
