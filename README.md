@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0525-contiguous-array) |
+| [0621-task-scheduler](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0721-accounts-merge) |
 | [0940-fruit-into-baskets](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0966-binary-subarrays-with-sum) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0917-boats-to-save-people) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1753-path-with-minimum-effort) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0525-contiguous-array) |
+| [0621-task-scheduler](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0735-asteroid-collision) |
 | [0890-lemonade-change](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0890-lemonade-change) |
@@ -201,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1034-subarrays-with-k-different-integers) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1983-maximum-population-year](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1983-maximum-population-year) |
@@ -316,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0721-accounts-merge) |
 | [0917-boats-to-save-people](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0917-boats-to-save-people) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3241-divide-array-into-arrays-with-max-difference) |
