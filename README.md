@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0037-sudoku-solver) |
+| [0076-minimum-window-substring](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0424-longest-repeating-character-replacement) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0022-generate-parentheses) |
+| [0076-minimum-window-substring](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0097-interleaving-string) |
 | [0131-palindrome-partitioning](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0131-palindrome-partitioning) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0940-fruit-into-baskets) |
