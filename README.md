@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0372-super-pow](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0372-super-pow) |
 | [0910-nth-magical-number](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0910-nth-magical-number) |
 | [1013-fibonacci-number](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/2032-largest-odd-number-in-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0943-sum-of-subarray-minimums](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1236-n-th-tribonacci-number) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -388,4 +390,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
