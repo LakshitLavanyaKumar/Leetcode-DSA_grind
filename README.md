@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0721-accounts-merge) |
 | [0940-fruit-into-baskets](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1034-subarrays-with-k-different-integers) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1370-count-number-of-nice-subarrays) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1034-subarrays-with-k-different-integers](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1034-subarrays-with-k-different-integers) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1983-maximum-population-year](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1983-maximum-population-year) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
