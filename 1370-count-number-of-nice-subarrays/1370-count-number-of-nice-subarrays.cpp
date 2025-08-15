@@ -1,21 +1,18 @@
 class Solution {
 public:
     int numberOfSubarrays(vector<int>& nums, int k) {
-        int n = nums.size();
-        map<int,int> mp;
-        vector<int> pf(n,0);
-        if(nums[0]&1){pf[0]=1;}
-        else{pf[0] =0;}
-        for(int i =1;i<n;i++)
-        {pf[i] = pf[i-1]+(nums[i]&1?1:0);}
-        mp[0]=1;
-        int ans =0;
-        for(int i =0;i<n;i++)
-        {
-            int h = pf[i]-k;
-            ans+=mp[h];
-            mp[pf[i]]++;
+        return atMost(nums, k) - atMost(nums, k-1);
+    }
+     int atMost(vector<int>& nums, int goal){
+        int head, tail = 0, sum = 0, result = 0;
+        for (head = 0; head < nums.size(); head++) {
+            sum += (nums[head]&1?1:0);
+            while (sum > goal && tail <= head) {
+                sum -= (nums[tail]&1?1:0);
+                tail++;
+            }
+            result += head - tail + 1;
         }
-        return ans;
+        return result;
     }
 };
