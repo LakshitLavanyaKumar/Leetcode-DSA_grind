@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0525-contiguous-array) |
 | [0721-accounts-merge](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0721-accounts-merge) |
 | [0940-fruit-into-baskets](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1370-count-number-of-nice-subarrays) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0943-sum-of-subarray-minimums) |
+| [0966-binary-subarrays-with-sum](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0966-binary-subarrays-with-sum) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1370-count-number-of-nice-subarrays) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1370-count-number-of-nice-subarrays) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Enumeration
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0525-contiguous-array) |
+| [0966-binary-subarrays-with-sum](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1370-count-number-of-nice-subarrays) |
 | [1983-maximum-population-year](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1983-maximum-population-year) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
