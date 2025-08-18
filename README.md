@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0013-roman-to-integer) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0042-trapping-rain-water) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0151-reverse-words-in-a-string) |
 | [0917-boats-to-save-people](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0917-boats-to-save-people) |
