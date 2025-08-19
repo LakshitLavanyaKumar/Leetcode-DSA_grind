@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1034-subarrays-with-k-different-integers) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1370-count-number-of-nice-subarrays](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1034-subarrays-with-k-different-integers) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1370-count-number-of-nice-subarrays](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1236-n-th-tribonacci-number) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
