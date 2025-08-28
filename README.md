@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3822-fill-a-special-grid](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3822-fill-a-special-grid) |
 | [3833-merge-operations-for-minimum-travel-time](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3833-merge-operations-for-minimum-travel-time) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3822-fill-a-special-grid](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3822-fill-a-special-grid) |
 ## Counting
 |  |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3833-merge-operations-for-minimum-travel-time](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3833-merge-operations-for-minimum-travel-time) |
 | [3903-inverse-coin-change](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3903-inverse-coin-change) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1013-fibonacci-number](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1236-n-th-tribonacci-number) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Binary Indexed Tree
 |  |
 | ------- |
