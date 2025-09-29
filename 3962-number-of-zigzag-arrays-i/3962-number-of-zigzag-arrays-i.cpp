@@ -1,38 +1,58 @@
 class Solution {
 public:
-    #define ll long long
-    const int MOD = 1e9 + 7;
-
+#define ll long long
+    const int MOD = 1000000007;
     int zigZagArrays(int n, int l, int r) {
-        int m = r - l + 1;
-        vector<vector<ll>> prev(m+1, vector<ll>(2,0)), curr(m+1, vector<ll>(2,0));
+        ll m   = r-l+1;
+       vector<vector<ll>> prev(m+1 , vector<ll>(2)), curr(m+1 , vector<ll>(2));
 
-        // Base case: arrays of length 1
-        for (int j=1; j<=m; j++) {
-            prev[j][0] = prev[j][1] = 1;
-        }
+       for(ll i=1;i<=m;i++)
+       {
+         prev[i][0] = 1;
+         prev[i][1] =1; 
+       } 
+       for(ll i=2;i<=n;i++)
+       {
+    
+    //       for(ll i=l;i<=r;i++)
+    //    {
+    //      curr[i][0] = 1;
+    //      curr[i][1] =1; 
+    //    }
+       vector<ll> pref1(m+2,0),pref2(m+2,0);
+            for(ll j=1;j<=m;j++)
+     {
+        pref1[j] = (pref1[j-1]+ prev[j][0])%MOD;
+        pref2[j] = (pref2[j-1]+ prev[j][1])%MOD;
+     }
 
-        for (int len=2; len<=n; len++) {
-            // prefix sums
-            vector<ll> pref0(m+2,0), pref1(m+2,0);
-            for (int j=1; j<=m; j++) {
-                pref0[j] = (pref0[j-1] + prev[j][0]) % MOD;
-                pref1[j] = (pref1[j-1] + prev[j][1]) % MOD;
-            }
-
-            for (int j=1; j<=m; j++) {
-                curr[j][1] = pref0[j-1];                         // prev < j
-                curr[j][0] = ( (pref1[m] - pref1[j]) % MOD + MOD ) % MOD; // prev > j
-            }
-
-            swap(prev, curr);
-            fill(curr.begin(), curr.end(), vector<ll>(2,0)); // reset
-        }
-
-        ll ans = 0;
-        for (int j=1; j<=m; j++) {
-            ans = (ans + prev[j][0] + prev[j][1]) % MOD;
-        }
-        return ans;
+     for(ll j =1;j<=m;j++)
+     {
+        curr[j][1] = pref1[j-1];
+        curr[j][0] = ( (pref2[m] - pref2[j]) % MOD + MOD ) % MOD;
+     }
+        // for(ll j =l;j<=r;j++)
+        // {
+        //     // pichla bada hai isse.....s=1
+        //     for(ll k=l;k<j;k++)
+        //     {
+        //     dp[i][j][1] = (dp[i][j][1]+dp[i-1][k][0])%MOD; 
+        //     }
+        //     for(ll k=j+1;k<=r;k++)
+        //     {
+        //     dp[i][j][0] = (dp[i][j][0]+dp[i-1][k][1])%MOD; 
+        //     }
+        // }
+        swap(prev ,curr);;
+        fill(curr.begin(), curr.end(), vector<ll>(2,0));
+       }
+       ll ans =0;
+       for(ll i=1;i<=m;i++)
+       {
+       //cout<<dp[n][i][0]<<" "<<dp[n][i][1]<<endl;
+       ans = (ans+prev[i][0])%MOD;
+       ans  = (ans+prev[i][1])%MOD;
+       }
+       return (int)ans;
     }
 };
