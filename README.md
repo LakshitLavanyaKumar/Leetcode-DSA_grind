@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0735-asteroid-collision) |
 | [0740-delete-and-earn](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0747-min-cost-climbing-stairs) |
+| [0880-rectangle-area-ii](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0880-rectangle-area-ii) |
 | [0890-lemonade-change](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0917-boats-to-save-people) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0880-rectangle-area-ii](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0880-rectangle-area-ii) |
 ## Database
 |  |
 | ------- |
@@ -463,4 +465,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1908-recyclable-and-low-fat-products](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/2087-confirmation-rate) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Line Sweep
+|  |
+| ------- |
+| [0880-rectangle-area-ii](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0880-rectangle-area-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [0880-rectangle-area-ii](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0880-rectangle-area-ii) |
 <!---LeetCode Topics End-->
