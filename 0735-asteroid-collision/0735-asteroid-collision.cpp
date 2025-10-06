@@ -1,47 +1,31 @@
 class Solution {
 public:
     vector<int> asteroidCollision(vector<int>& asteroids) {
-        vector<int> v = asteroids;
-    int n = v.size();
-    stack<int> st;
-    st.push(v[0]);
-    for(int i =1;i<n;i++)
-    {
-        
-            st.push(v[i]);
-            while(!st.empty())
-            {
-                int a = st.top();
-                st.pop();
-                if(st.empty())
-                {
-                    st.push(a);break;
-                }
-                if(!st.empty() && ((st.top()<0 && a<0)||(st.top()>0 && a>0 )|| (st.top()<0 && a>0))){st.push(a);break;}
-                if(abs(st.top())>abs(a))
-                {
-                    //st.pop();
-                    //continue;
-                }
-                else if(abs(st.top())<abs(a))
-                {
-                    st.pop();
-                    st.push(a);//continue;
-                }
-                else if(abs(st.top()) == abs(a)){
-                    st.pop();//continue;
-                }
-                
-            
-            
-            }
-    }vector<int> ans;
-    while(!st.empty())
-    {
-      ans.push_back(st.top());
-      st.pop();
+int n = asteroids.size();
+stack<int> st;
+for(int  i=0;i<n;i++)
+{
+    int ele = asteroids[i];
+    if(!st.empty() && ( (st.top()*ele >0) || (st.top()<0 && ele>0) ))
+    {st.push(ele);}
+    else{
+        while(!st.empty() && st.top()<abs(ele) && st.top()*ele<0)
+        {st.pop();}
+        if(!st.empty() && st.top()*ele>0)
+        {st.push(ele);}
+       if(!st.empty() && st.top()*ele<0)
+        {if(st.top() == abs(ele)){st.pop();continue;}
+         else if(st.top()>abs(ele))
+         {continue;}
+        }
+        else if(st.empty())
+        {st.push(ele);}
     }
-    reverse(ans.begin() ,ans.end());
-    return ans;
+}
+vector<int> ans;
+while(!st.empty())
+{ans.push_back(st.top());st.pop();}
+reverse(ans.begin() , ans.end());
+return ans;
     }
 };
