@@ -1,46 +1,62 @@
 class Solution {
 public:
     int rectangleArea(vector<vector<int>>& rectangles) {
-        // find unique y's so the adjacent y_diff are heights
-        // sweep all rectangles along x for each height
-        set<int> ys;
-        for (auto const & r: rectangles)
-        {
-            ys.insert(r[1]);
-            ys.insert(r[3]);
+        const int MOD = 1e9 + 7;
+
+        // Step 1: Collect all unique y-values (bottom and top of rectangles)
+        set<int> uniqueYs;
+        for (const auto& rect : rectangles) {
+            uniqueYs.insert(rect[1]); // y1
+            uniqueYs.insert(rect[3]); // y2
         }
-        // sort rectangle with x_start
-        sort(rectangles.begin(), rectangles.end(), [](auto const & r1, auto const & r2){return r1[0] < r2[0];});
-        
-        // sweep from bottom to top
-        int prev_y= *ys.begin();
-        long long res = 0;
-        int mod = pow(10, 9)+7;
-        for (auto y: ys)
-        {
-            long long height = y-prev_y;
-            long long x_start = rectangles.front()[0];
-            long long x_end = x_start;
-            for (auto const & r: rectangles)
-            {
-                // check if r fully occupy in between y and prev_y
-                if (r[1] <= prev_y && r[3] >=y)
-                {
-                    if (r[0] > x_end)
-                    {
-                        res+= height * (x_end-x_start) % mod;
-                        x_start = r[0];
-                    }
-                    if (r[2] > x_end)
-                    {
-                        x_end = r[2];
+
+        // Step 2: Sort rectangles by their starting x-coordinate (left side)
+        sort(rectangles.begin(), rectangles.end(), [](const vector<int>& a, const vector<int>& b) {
+            return a[0] < b[0];
+        });
+
+        // Step 3: Initialize result and previous y value
+        long long totalArea = 0;
+        int prevY = *uniqueYs.begin(); // Start with the smallest y value
+
+        // Step 4: Sweep through all adjacent y-intervals (like scanning horizontal strips)
+        for (int currY : uniqueYs) {
+            // Compute height of current horizontal strip
+            int height = currY - prevY;
+            if (height == 0) {
+                prevY = currY;
+                continue;
+            }
+
+            // Now compute the width of union of all rectangles covering this horizontal strip
+            long long xStart = -1;
+            long long xEnd = -1;
+
+            for (const auto& rect : rectangles) {
+                int x1 = rect[0], y1 = rect[1];
+                int x2 = rect[2], y2 = rect[3];
+
+                // Check if this rectangle fully spans the current y-strip [prevY, currY)
+                if (y1 <= prevY && y2 >= currY) {
+                    // If the rectangle starts after current x-end → gap → add previous segment
+                    if (x1 > xEnd) {
+                        totalArea = (totalArea + (xEnd - xStart) * height % MOD) % MOD;
+                        xStart = x1;
+                        xEnd = x2;
+                    } else {
+                        // Extend the current segment if needed
+                        xEnd = max(xEnd, (long long)x2);
                     }
                 }
             }
-            res += height * (x_end-x_start) % mod;
-            prev_y = y;
+
+            // Add the final x segment for this y-strip
+            totalArea = (totalArea + (xEnd - xStart) * height % MOD) % MOD;
+
+            // Move to next strip
+            prevY = currY;
         }
-        
-        return res % mod;
+
+        return totalArea % MOD;
     }
 };
