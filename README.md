@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0525-contiguous-array) |
+| [0546-remove-boxes](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0546-remove-boxes) |
 | [0621-task-scheduler](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0435-non-overlapping-intervals) |
+| [0546-remove-boxes](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0546-remove-boxes) |
 | [0646-maximum-length-of-pair-chain](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0678-valid-parenthesis-string) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0546-remove-boxes](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0546-remove-boxes) |
 | [1013-fibonacci-number](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/1236-n-th-tribonacci-number) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
