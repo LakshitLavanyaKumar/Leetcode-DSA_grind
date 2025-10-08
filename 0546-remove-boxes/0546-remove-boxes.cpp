@@ -2,14 +2,14 @@ class Solution {
 public:
     int removeBoxes(vector<int>& boxes) {
         int n = boxes.size();
-        int dp[1021][102][102];
+        int dp[101][101][101];
         memset( dp , 0 , sizeof( dp ) ) ;
         for(int  len =1;len<=n;len++)
         {
             for(int i = n-len;i>=0;i--)
             {
                 int j = i+len-1;
-                for(int k=0;k<=n;k++)
+                for(int k=0;k<n;k++)
                 {
                     int cnt =1;
                     while(i+cnt<=j && boxes[i+cnt]==boxes[i]){cnt++;}
