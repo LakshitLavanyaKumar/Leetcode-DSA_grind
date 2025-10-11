@@ -1,62 +1,44 @@
 class Solution {
 public:
     int rectangleArea(vector<vector<int>>& rectangles) {
-        const int MOD = 1e9 + 7;
-
-        // Step 1: Collect all unique y-values (bottom and top of rectangles)
-        set<int> uniqueYs;
-        for (const auto& rect : rectangles) {
-            uniqueYs.insert(rect[1]); // y1
-            uniqueYs.insert(rect[3]); // y2
+        long long int mod = 1e9+7;
+        set<long long int> ys;
+        for(auto it:rectangles)
+        {
+            ys.insert(it[1]);
+            ys.insert(it[3]);
         }
-
-        // Step 2: Sort rectangles by their starting x-coordinate (left side)
-        sort(rectangles.begin(), rectangles.end(), [](const vector<int>& a, const vector<int>& b) {
-            return a[0] < b[0];
-        });
-
-        // Step 3: Initialize result and previous y value
-        long long totalArea = 0;
-        int prevY = *uniqueYs.begin(); // Start with the smallest y value
-
-        // Step 4: Sweep through all adjacent y-intervals (like scanning horizontal strips)
-        for (int currY : uniqueYs) {
-            // Compute height of current horizontal strip
-            int height = currY - prevY;
-            if (height == 0) {
-                prevY = currY;
-                continue;
-            }
-
-            // Now compute the width of union of all rectangles covering this horizontal strip
-            long long xStart = -1;
-            long long xEnd = -1;
-
-            for (const auto& rect : rectangles) {
-                int x1 = rect[0], y1 = rect[1];
-                int x2 = rect[2], y2 = rect[3];
-
-                // Check if this rectangle fully spans the current y-strip [prevY, currY)
-                if (y1 <= prevY && y2 >= currY) {
-                    // If the rectangle starts after current x-end → gap → add previous segment
-                    if (x1 > xEnd) {
-                        totalArea = (totalArea + (xEnd - xStart) * height % MOD) % MOD;
-                        xStart = x1;
-                        xEnd = x2;
-                    } else {
-                        // Extend the current segment if needed
-                        xEnd = max(xEnd, (long long)x2);
+        sort(rectangles.begin() , rectangles.end());
+  long long ans=0;
+       long long  int py =*ys.begin();
+        for(auto it:ys)
+        {
+            long long int cy = it;
+            long long  height = cy -py;
+            if(cy == py)
+            {py =it;continue;}
+           long long  int xs =-1;
+          long long   int xe =-1;
+            for(auto it:rectangles)
+            {
+               long long int x1 = it[0];int y1=it[1];
+               long long  int x2 =it[2];int y2=it[3];
+                if(y1<= py && y2>= cy)
+                {
+                    if(x1>xe)
+                    {
+                        ans = (ans + ((height * ( xe-xs) )%mod ))%mod;
+                        xe =x2;
+                        xs=x1;
+                    }
+                    else{
+                        xe = max(xe,x2);
                     }
                 }
             }
-
-            // Add the final x segment for this y-strip
-            totalArea = (totalArea + (xEnd - xStart) * height % MOD) % MOD;
-
-            // Move to next strip
-            prevY = currY;
+ans = (ans + ((height * ( xe-xs))  %mod))%mod;
+py =cy;
         }
-
-        return totalArea % MOD;
+        return (int)ans;
     }
 };
