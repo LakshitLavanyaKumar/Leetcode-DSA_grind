@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0735-asteroid-collision) |
+| [0883-car-fleet](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0883-car-fleet) |
 | [0943-sum-of-subarray-minimums](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/2227-sum-of-subarray-ranges) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0747-min-cost-climbing-stairs) |
 | [0880-rectangle-area-ii](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0880-rectangle-area-ii) |
+| [0883-car-fleet](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0883-car-fleet) |
 | [0890-lemonade-change](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0917-boats-to-save-people) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0721-accounts-merge) |
+| [0883-car-fleet](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0883-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0917-boats-to-save-people) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3748-sort-matrix-by-diagonals](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/3748-sort-matrix-by-diagonals) |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0503-next-greater-element-ii) |
+| [0883-car-fleet](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0883-car-fleet) |
 | [0943-sum-of-subarray-minimums](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/LakshitLavanyaKumar/Leetcode-DSA_grind/tree/master/2227-sum-of-subarray-ranges) |
 ## Simulation
